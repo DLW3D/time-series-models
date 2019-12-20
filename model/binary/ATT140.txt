@@ -1,0 +1,8 @@
+callback:61
+delay:1
+dropout_rate:0.3
+sigmoid:True
+该模型具有拟合该数据的潜力,和之前一样140epoch前迅速过拟合.
+训练集准确率:68/80/96
+测试集准确率:50/50/50
+
